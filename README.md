@@ -1,0 +1,2 @@
+# EaglerFontFix
+一部のEaglercraftのフォントがおかしい問題を修正します。
